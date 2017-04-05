@@ -7,7 +7,7 @@ This is a small terminal program which uses the Haystack HTTP REST NSFW API to d
 Written in Python so it should work on Windows, macOS, and Linux. 
 
 #### How to use
-In order to use this program you must have an API key, which you can get by signing up [here](https://www.haystack.ai/user/signup)
+In order to use this program you must have an API key, which you can get by signing up at [Haystack NSFW API](https://www.haystack.ai/user/signup)
 
 ##### Example Usage
 ```
